@@ -9,6 +9,7 @@ The application should track how much should be paid to each vendor as well as
 how much money should be paid to the store.
 
 Requirements
+
 1.List of vendors
 
 2.List of items per vendor
@@ -23,7 +24,4 @@ Requirements
 
 
 
-
-
-![Consignment Prop  List](https://user-images.githubusercontent.com/95772250/183614399-22b490aa-9871-4178-b6cd-1b877846fcee.png)
-
+![resim_2022-08-09_122811846](https://user-images.githubusercontent.com/95772250/183614806-94b4d228-cbb7-4b95-8718-8a556480cc98.png)
