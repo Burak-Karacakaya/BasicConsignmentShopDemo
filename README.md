@@ -10,11 +10,20 @@ how much money should be paid to the store.
 
 Requirements
 1.List of vendors
+
 2.List of items per vendor
+
 3.Each vendor should have a default commission rate
+
 4.Commissions can change
+
 5.Track how much to pay the vendor
+
 6.Track how much to pay the store
+
+
+
+
 
 ![Consignment Prop  List](https://user-images.githubusercontent.com/95772250/183614399-22b490aa-9871-4178-b6cd-1b877846fcee.png)
 
